@@ -29,6 +29,9 @@ This machine learning project predicts the future price of gold based on histori
 Run the Jupyter Notebook:
 Open Project_6_Gold_Price_Prediction.ipynb in Jupyter or Google Colab.
 
+Install required libraries:
+pip install -r requirements.txt
+
 📈 Results
 Visual comparison between actual and predicted prices
 
